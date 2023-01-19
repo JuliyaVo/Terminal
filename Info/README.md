@@ -52,8 +52,14 @@
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
          <a href="https://linuxconfig.org/bash-scripting-tutorial">Bash Scripting Tutorial</a>
       </p>
-      ![Watch the video](https://i.ytimg.com/vi/e7BufAVwDiM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAU1spB4xuptNzFhmogWg4IrjZchg)](https://www.youtube.com/watch?v=e7BufAVwDiM)
+      
+      [![Watch the video](https://i.ytimg.com/vi/e7BufAVwDiM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAU1spB4xuptNzFhmogWg4IrjZchg)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=e7BufAVwDiM))
+      
      
+      картинка
+      https://i.ytimg.com/vi/e7BufAVwDiM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAU1spB4xuptNzFhmogWg4IrjZchg
+      вмдео
+      https://www.youtube.com/watch?v=e7BufAVwDiM
      
      
      
