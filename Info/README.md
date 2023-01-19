@@ -27,7 +27,7 @@
       </p>
       <p>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
-         <a href="[https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal](https://help.ubuntu.ru/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0#%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0)">Command Line (RU)</a>
+         <a href="https://help.ubuntu.ru/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0#%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0">Command Line (RU)</a>
       </p>
       <p>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
@@ -39,7 +39,7 @@
       </p>
       <p>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
-         <a href=" https://phoenixnap.com/kb/linux-commands-cheat-sheet#linux-commands-list">Linux Commands List</a>
+         <a href="https://phoenixnap.com/kb/linux-commands-cheat-sheet#linux-commands-list">Linux Commands List</a>
       </p>
    </ol>                                                                                   
  </div>
