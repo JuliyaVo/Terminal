@@ -54,7 +54,7 @@
       </p>
       
      [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-      
+      </div>
      
       картинка
       https://i.ytimg.com/vi/e7BufAVwDiM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAU1spB4xuptNzFhmogWg4IrjZchg
