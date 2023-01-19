@@ -10,14 +10,12 @@
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
          <a href="https://support.apple.com/en-gb/guide/terminal/welcome/mac">Terminal User Guide</a>
       </p>
-       
       <p>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
          <a href="https://www.macupdate.com/how-to/mac-terminal-commands-list">Mac Terminal Commands and Tricks List</a>
       </p>
    </ol>
  </div>
- 
  <div align="left">
    <h2>Linux CL</h2>
    <ol>
