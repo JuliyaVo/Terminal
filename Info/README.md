@@ -41,7 +41,26 @@
       </p>
    </ol>                                                                                   
  </div>
- 
+ <div align="left">
+   <h2>Shell Scripting</h2>
+   <ol>
+      <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://www.geeksforgeeks.org/shell-scripting-define-bin-bash/">Shell Scripting – Define #!/bin/bash</a>
+      </p>
+      <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://linuxconfig.org/bash-scripting-tutorial">Bash Scripting Tutorial</a>
+      </p>
+      ![Watch the video](https://i.ytimg.com/vi/e7BufAVwDiM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAU1spB4xuptNzFhmogWg4IrjZchg)](https://www.youtube.com/watch?v=e7BufAVwDiM)
+     
+     
+     
+     
+     
+     
+
+
  
    
    
