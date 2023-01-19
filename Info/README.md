@@ -53,7 +53,7 @@
          <a href="https://linuxconfig.org/bash-scripting-tutorial">Bash Scripting Tutorial</a>
       </p>
       <p>
-         <img src="https://media.giphy.com/media/YGJSKBUNRo9nLZfUDb/giphy.gif" title=>
+         <img src="https://media.giphy.com/media/YGJSKBUNRo9nLZfUDb/giphy.gif" title="Free 3-hours Course Bush Scripting" alt="Free 3-hours Course Bush Scripting" width=200 heigh=200>
          <a href="https://www.youtube.com/watch?v=e7BufAVwDiM">
          </a>
          </p>
