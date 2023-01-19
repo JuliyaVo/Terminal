@@ -1,4 +1,4 @@
 
 <div align="left">
-   <h1>Helpful ifo about Terminal macOS, Linux command line and GitBash</h1>
+   <h1>ʜᴇʟᴩꜰᴜʟ ɪɴꜰᴏ ᴀʙᴏᴜᴛ ᴛᴇʀᴍɪɴᴀʟ ᴍᴀᴄᴏꜱ, ʟɪɴᴜx ᴄᴏᴍᴍᴀɴᴅ ʟɪɴᴇ ᴀɴᴅ ɢɪᴛʙᴀꜱʜ</h1>
  </div>
