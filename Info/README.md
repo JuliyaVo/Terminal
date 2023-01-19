@@ -52,14 +52,21 @@
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
          <a href="https://linuxconfig.org/bash-scripting-tutorial">Bash Scripting Tutorial</a>
       </p>
+      <p>
+         <img src="https://media.giphy.com/media/YGJSKBUNRo9nLZfUDb/giphy.gif" title=>
+         <a href="https://www.youtube.com/watch?v=e7BufAVwDiM">
+         </a>
+         </p>
+   </ol>
+   </div>
+   
+            
+         
       
-     [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-      </div>
+   
      
-      картинка
-      https://i.ytimg.com/vi/e7BufAVwDiM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAU1spB4xuptNzFhmogWg4IrjZchg
-      вмдео
-      https://www.youtube.com/watch?v=e7BufAVwDiM
+     
+      
      
      
      
