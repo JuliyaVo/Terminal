@@ -8,7 +8,7 @@
    <ol>
       <p>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
-         <a href="https://support.apple.com/en-gb/guide/terminal/welcome/mac">Terminal User Guide</a>
+         <a target="blank" href="https://support.apple.com/en-gb/guide/terminal/welcome/mac">Terminal User Guide</a>
       </p>
       <p>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
@@ -53,7 +53,7 @@
          <a href="https://linuxconfig.org/bash-scripting-tutorial">Bash Scripting Tutorial</a>
       </p>
       <p>
-         <a href="https://www.youtube.com/watch?v=e7BufAVwDiM">
+         <a target="blank" href="https://www.youtube.com/watch?v=e7BufAVwDiM">
          <img src="https://media.giphy.com/media/qKBiYVdoRGhqh34RSb/giphy.gif" title="Free 3-hours Course Bush Scripting" alt="Free 3-hours Course Bush Scripting" width=600 heigh=600>
              </a>
          </p>
