@@ -54,7 +54,7 @@
       </p>
       <p>
          <a href=" https://www.youtube.com/watch?app=desktop&v=O00FTZDxD0o&feature=youtu.be">
-         <img src="https://media.giphy.com/media/YGJSKBUNRo9nLZfUDb/giphy.gif" title="Free 3-hours Course Bush Scripting" alt="Free 3-hours Course Bush Scripting" width=1000 heigh=1000>
+         <img src="https://media.giphy.com/media/qKBiYVdoRGhqh34RSb/giphy.gif" title="Free 3-hours Course Bush Scripting" alt="Free 3-hours Course Bush Scripting" width=600 heigh=600>
              </a>
          </p>
    </ol>
